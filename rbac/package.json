@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "joi": "^9.0.4",
-    "sequelize": "^3.30.0",
+    "sequelize": "^6.3.5",
     "underscore": "^1.8.3"
   },
   "author": "Anway",
